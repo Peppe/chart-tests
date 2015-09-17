@@ -1,10 +1,18 @@
 # chart-tests
 
 Project testing out different features in Vaadin Charts' Scatter chart
-- Test different amount of data points
+- Test different amount of data points and performance
 - Draw vector graphics on top of graph
+- Trac zoom events on the client side to be able to undo them
 
-## How to use
+## Copy paste this code to checkout project and run locally
+```git clone https://github.com/Peppe/chart-tests.git
+cd chart-tests
+mvn jetty:run
+``
+and open browser to http://localhost:8080
+
+## More detailed instructions
 
 1. Check out project
 2. Install a license from https://vaadin.com/pro/licenses
