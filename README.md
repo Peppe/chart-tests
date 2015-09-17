@@ -6,10 +6,11 @@ Project testing out different features in Vaadin Charts' Scatter chart
 - Trac zoom events on the client side to be able to undo them
 
 ## Copy paste this code to checkout project and run locally
-```git clone https://github.com/Peppe/chart-tests.git
+```
+git clone https://github.com/Peppe/chart-tests.git
 cd chart-tests
 mvn jetty:run
-``
+```
 and open browser to http://localhost:8080
 
 ## More detailed instructions
