@@ -1,10 +1,10 @@
-= chart-tests
+# chart-tests
 
 Project testing out different features in Vaadin Charts' Scatter chart
 - Test different amount of data points
 - Draw vector graphics on top of graph
 
-== How to use
+## How to use
 
 1) Check out project
 2) Install a license from https://vaadin.com/pro/licenses
@@ -12,7 +12,7 @@ Project testing out different features in Vaadin Charts' Scatter chart
 4) Call mvn jetty:run in root folder
 5) Go to http://localhost:8080 in browser
 
-== Or, in IntelliJ IDEA
+## Or, in IntelliJ IDEA
 3) Import project (as Maven or existing project should both work
 3) Open up "Maven projects in top right corner
 2) double click chart-tests -> Lifecycle -> package
